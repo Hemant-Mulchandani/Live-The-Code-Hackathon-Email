@@ -2,7 +2,7 @@
 
   📌 Visit to Live Interact : 🔗
 
-  https://hemant-mulchandani.github.io/Live-The-Code-Hackathon-Email/
+  https://Hemant-mulchandani.github.io/Live-The-Code-Hackathon-Email/
 
   ![Mail Capture](Media/Live-The-Code-Hackathon-Email-Screenshot.png)
 
